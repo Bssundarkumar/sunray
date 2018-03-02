@@ -11,5 +11,4 @@ export class TimesheetComponent implements OnInit {
 
   ngOnInit() {
   }
-
 }

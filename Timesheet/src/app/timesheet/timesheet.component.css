@@ -1,0 +1,59 @@
+h5{
+    color: white;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.row1{
+    background-color: green;   
+}
+.row2{
+    background-color: #272727;
+    height:39px;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #272727;
+    border-color: #f8f9fa;
+}
+.btn-success {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+    margin-left: 10px;
+}
+.btnsub{
+    color: #fff;
+    background-color: #2e6da4!important;
+    border-color: #337ab7!important;
+    margin-bottom: 10px;
+}
+.btns{
+    margin-right: 5px;
+    text-align: right;
+}
+
+.w3-col{
+margin-right: 1px;
+padding-top: 5px;
+text-align: center;
+}
+
+form{
+    background-color: #bbb;   
+}
+
+.inp{
+  width:55px;  
+  margin-left: -10px!important;
+  text-align: center;
+}
+label{
+    background-color: #28a745;
+    color: white;
+    font-weight: bold;
+    padding: 5px;
+    font-size: 20px;
+}
+hr{
+   background: white;
+}
