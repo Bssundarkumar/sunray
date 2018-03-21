@@ -8,6 +8,7 @@ import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { TimesheetComponent } from './timesheet/timesheet.component';
 import { NgbdDatepickerPopupComponent } from './ngbd-datepicker-popup/ngbd-datepicker-popup.component';
+import { PracComponent } from './prac/prac.component';
 
 
 @NgModule({
@@ -16,7 +17,8 @@ import { NgbdDatepickerPopupComponent } from './ngbd-datepicker-popup/ngbd-datep
     HeaderComponent,
     FooterComponent,
     TimesheetComponent,
-    NgbdDatepickerPopupComponent
+    NgbdDatepickerPopupComponent,
+    PracComponent
   ],
   imports: [
     BrowserModule,
